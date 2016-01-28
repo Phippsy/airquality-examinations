@@ -1,4 +1,4 @@
-# Exploratory data analysis - assignment.
+# Exploratory data analysis - air quality
 
 ## Introduction
 
